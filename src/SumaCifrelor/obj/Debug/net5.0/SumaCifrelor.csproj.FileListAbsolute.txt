@@ -1,0 +1,16 @@
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.exe
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.deps.json
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.runtimeconfig.json
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.runtimeconfig.dev.json
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.dll
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\ref\SumaCifrelor.dll
+F:\Development\C#\SumaCifrelor\bin\Debug\net5.0\SumaCifrelor.pdb
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.csproj.AssemblyReference.cache
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.AssemblyInfoInputs.cache
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.AssemblyInfo.cs
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.csproj.CoreCompileInputs.cache
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.dll
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\ref\SumaCifrelor.dll
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.pdb
+F:\Development\C#\SumaCifrelor\obj\Debug\net5.0\SumaCifrelor.genruntimeconfig.cache

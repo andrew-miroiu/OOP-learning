@@ -1,0 +1,16 @@
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.exe
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.deps.json
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.runtimeconfig.json
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.runtimeconfig.dev.json
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.dll
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\ref\cmmmc patrat perfect.dll
+F:\Development\C#\cmmmc patrat perfect\bin\Debug\net5.0\cmmmc patrat perfect.pdb
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.csproj.AssemblyReference.cache
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.AssemblyInfoInputs.cache
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.AssemblyInfo.cs
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.csproj.CoreCompileInputs.cache
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.dll
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\ref\cmmmc patrat perfect.dll
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.pdb
+F:\Development\C#\cmmmc patrat perfect\obj\Debug\net5.0\cmmmc patrat perfect.genruntimeconfig.cache

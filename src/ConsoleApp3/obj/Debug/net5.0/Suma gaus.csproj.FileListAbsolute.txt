@@ -1,0 +1,16 @@
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.exe
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.deps.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.runtimeconfig.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.runtimeconfig.dev.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.dll
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ref\Suma gaus.dll
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\Suma gaus.pdb
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.csproj.AssemblyReference.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.AssemblyInfoInputs.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.AssemblyInfo.cs
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.csproj.CoreCompileInputs.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.dll
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ref\Suma gaus.dll
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.pdb
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\Suma gaus.genruntimeconfig.cache

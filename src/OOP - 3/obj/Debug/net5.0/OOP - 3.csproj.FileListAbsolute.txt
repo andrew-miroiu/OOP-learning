@@ -1,0 +1,16 @@
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.exe
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.deps.json
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.runtimeconfig.json
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.runtimeconfig.dev.json
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.dll
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\ref\OOP - 3.dll
+F:\Development\C#\OOP - 3\bin\Debug\net5.0\OOP - 3.pdb
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.csproj.AssemblyReference.cache
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.AssemblyInfoInputs.cache
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.AssemblyInfo.cs
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.csproj.CoreCompileInputs.cache
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.dll
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\ref\OOP - 3.dll
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.pdb
+F:\Development\C#\OOP - 3\obj\Debug\net5.0\OOP - 3.genruntimeconfig.cache

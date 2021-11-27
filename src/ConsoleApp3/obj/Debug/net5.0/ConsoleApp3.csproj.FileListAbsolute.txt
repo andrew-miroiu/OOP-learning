@@ -1,0 +1,16 @@
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+F:\Development\C#\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+F:\Development\C#\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
